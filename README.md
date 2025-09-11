@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **Dmitrii Sapelkin** (@kerabromsmu)
 - 🪪 My personal site: https://dimage.sharkrazor.net/en
-- 👀 I’m interested in Game Design, JavaScript, Haskell
-- 🌱 I’m currently learning Unreal Engine 5 and React.js
+- 👀 I’m interested in Java, Game Design, JavaScript, Haskell
+- 🌱 I’m currently learning Java system programming
 
 <!---
 kerabromsmu/kerabromsmu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
