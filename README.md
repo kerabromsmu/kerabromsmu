@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **Dmitrii Sapelkin** (@kerabromsmu)
-- 🪪 My personal site: https://dimage.sharkrazor.net/en
+- 🪪 My personal site: https://dimage.se
 - 👀 I’m interested in Java, Game Design, JavaScript, Haskell
-- 🌱 I’m currently learning Java system programming
+- 🌱 I’m currently developing an experimental functional language called Caret. Read more about it here: https://caret.dimage.se
 
 <!---
 kerabromsmu/kerabromsmu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
